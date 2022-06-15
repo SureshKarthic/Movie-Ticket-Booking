@@ -69,8 +69,9 @@
                 </div>
                 <div>
                     <input type="submit" value="Register" name="but_submit" id="but_submit" />
+                    <a href="signin.php">login</a>
                 </div>
-                <a href="signin.php">login</a>
+                
             </div>
         </form>
     </div>
