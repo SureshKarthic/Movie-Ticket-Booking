@@ -98,5 +98,8 @@ if (isset($_POST['but_submit'])) {
         }
 
 }
+  else{
+    echo '<script>alert("not empty value")</script>';
+}  
 }
 ?>
